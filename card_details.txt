@@ -1,0 +1,462 @@
+1,Goblin Shaman,1,1,750,15,3.75,0.075,Y
+2,Giant Roc,1,1,750,15,3.75,0.075,Y
+3,Kobold Miner,1,1,750,15,3.75,0.075,Y
+4,Fire Beetle,1,1,750,15,3.75,0.075,Y
+5,Malric Inferno,1,2,3000,60,15,0.3,Y
+6,Serpentine Soldier,1,2,3000,60,15,0.3,Y
+7,Pit Ogre,1,2,3000,60,15,0.3,Y
+8,Cerberus,1,2,3000,60,15,0.3,Y
+9,Fire Demon,1,3,15000,300,75,1.5,Y
+10,Serpent of the Flame,1,3,15000,300,75,1.5,Y
+11,Elemental Phoenix,1,4,75000,1500,375,7.5,Y
+12,Pirate Captain,1,1,750,15,3.75,0.075,Y
+13,Spineback Turtle,1,1,750,15,3.75,0.075,Y
+14,Crustacean King,1,1,750,15,3.75,0.075,Y
+15,Sabre Shark,1,1,750,15,3.75,0.075,Y
+16,Alric Stormbringer,1,2,3000,60,15,0.3,Y
+17,Medusa,1,2,3000,60,15,0.3,Y
+18,Water Elemental,1,2,3000,60,15,0.3,Y
+19,Frozen Soldier,1,2,3000,60,15,0.3,Y
+20,Mischievous Mermaid,1,3,15000,300,75,1.5,Y
+21,Naga Warrior,1,3,15000,300,75,1.5,Y
+22,Frost Giant,1,4,75000,1500,375,7.5,Y
+23,Flesh Golem,1,1,750,15,3.75,0.075,Y
+24,Goblin Sorcerer,1,1,750,15,3.75,0.075,Y
+25,Rexxie,1,1,750,15,3.75,0.075,Y
+26,Minotaur Warrior,1,1,750,15,3.75,0.075,Y
+27,Lyanna Natura,1,2,3000,60,15,0.3,Y
+28,Earth Elemental,1,2,3000,60,15,0.3,Y
+29,Stone Golem,1,2,3000,60,15,0.3,Y
+30,Stonesplitter Orc,1,2,3000,60,15,0.3,Y
+31,Magi of the Forest,1,3,15000,300,75,1.5,Y
+32,Swamp Thing,1,3,15000,300,75,1.5,Y
+33,Spirit of the Forest,1,4,75000,1500,375,7.5,Y
+34,Divine Healer,1,1,750,15,3.75,0.075,Y
+35,Feral Spirit,1,1,750,15,3.75,0.075,Y
+36,Silvershield Knight,1,1,750,15,3.75,0.075,Y
+37,Silvershield Warrior,1,1,750,15,3.75,0.075,Y
+38,Tyrus Paladium,1,2,3000,60,15,0.3,Y
+39,Peacebringer,1,2,3000,60,15,0.3,Y
+40,Silvershield Paladin,1,2,3000,60,15,0.3,Y
+41,Clay Golem,1,2,3000,60,15,0.3,Y
+42,Defender of Truth,1,3,15000,300,75,1.5,Y
+43,Air Elemental,1,3,15000,300,75,1.5,Y
+44,Angel of Light,1,4,75000,1500,375,7.5,Y
+45,Animated Corpse,1,1,750,15,3.75,0.075,Y
+46,Haunted Spider,1,1,750,15,3.75,0.075,Y
+47,Skeleton Assassin,1,1,750,15,3.75,0.075,Y
+48,Spineback Wolf,1,1,750,15,3.75,0.075,Y
+49,Zintar Mortalis,1,2,3000,60,15,0.3,Y
+50,Haunted Spirit,1,2,3000,60,15,0.3,Y
+51,Twisted Jester,1,2,3000,60,15,0.3,Y
+52,Undead Priest,1,2,3000,60,15,0.3,Y
+53,Dark Enchantress,1,3,15000,300,75,1.5,Y
+54,Screaming Banshee,1,3,15000,300,75,1.5,Y
+55,Lord of Darkness,1,4,75000,1500,375,7.5,Y
+56,Selenia Sky,1,4,75000,1500,375,7.5,Y
+57,Lightning Dragon,1,4,75000,1500,375,7.5,Y
+58,Chromatic Dragon,1,4,75000,1500,375,7.5,Y
+59,Gold Dragon,1,4,75000,1500,375,7.5,Y
+60,Peaceful Giant,1,1,750,15,3.75,0.075,N
+61,Grumpy Dwarf,1,1,750,15,3.75,0.075,N
+62,Elven Cutthroat,1,1,750,15,3.75,0.075,N
+63,Centaur,1,1,750,15,3.75,0.075,N
+64,Cocatrice,1,2,3000,60,15,0.3,N
+65,Cyclops,1,2,3000,60,15,0.3,N
+66,Enchanted Pixie,1,2,3000,60,15,0.3,N
+67,Raging Impaler,1,3,15000,300,75,1.5,Y
+68,Magi Sphinx,1,3,15000,300,75,1.5,Y
+69,Hydra,1,4,75000,1500,375,7.5,Y
+70,Talia Firestorm,1,3,15000,300,75,1.5,Y
+71,Xia Seachan,1,3,15000,300,75,1.5,Y
+72,Xander Foxwood,1,3,15000,300,75,1.5,Y
+73,Kiara Lightbringer,1,3,15000,300,75,1.5,Y
+74,Jarlax the Undead,1,3,15000,300,75,1.5,Y
+75,Dragon Whelp,2,1,1500,30,7.5,0.15,N
+76,Royal Dragon Archer,2,3,30000,600,150,3,Y
+77,Shin-Lo,2,4,150000,3000,750,15,Y
+78,Neb Seni,2,2,6000,120,30,0.6,Y
+79,Highland Archer,3,1,750,15,3.75,0.075,Y
+80,Rusty Android,3,1,750,15,3.75,0.075,Y
+81,Hobgoblin,3,2,3000,60,15,0.3,Y
+82,Lord Arianthus,3,4,75000,1500,375,7.5,Y
+83,Sea Genie,3,1,750,15,3.75,0.075,Y
+84,Divine Sorceress,3,3,15000,300,75,1.5,Y
+85,Mushroom Seer,3,2,3000,60,15,0.3,Y
+86,Vampire,3,1,750,15,3.75,0.075,Y
+87,Flame Imp,3,2,3000,60,15,0.3,Y
+88,Daria Dragonscale,3,3,15000,300,75,1.5,Y
+89,Sacred Unicorn,3,4,75000,1500,375,7.5,Y
+90,Wood Nymph,3,1,750,15,3.75,0.075,Y
+91,Creeping Ooze,3,1,750,15,3.75,0.075,Y
+92,Phantom Soldier,3,3,15000,300,75,1.5,Y
+93,Pirate Archer,3,2,3000,60,15,0.3,N
+94,Naga Fire Wizard,3,2,3000,60,15,0.3,N
+95,Brownie,3,3,15000,300,75,1.5,Y
+96,Silvershield Archers,3,1,750,15,3.75,0.075,N
+97,Goblin Mech,3,1,750,15,3.75,0.075,N
+98,Ruler of the Seas,3,4,75000,1500,375,7.5,Y
+99,Skeletal Warrior,3,2,3000,60,15,0.3,N
+100,Imp Bowman,3,3,15000,300,75,1.5,Y
+101,Crystal Werewolf,3,2,3000,60,15,0.3,N
+102,Javelin Thrower,3,2,3000,60,15,0.3,N
+103,Sea Monster,3,1,750,15,3.75,0.075,N
+104,Prismatic Energy,3,2,3000,60,15,0.3,N
+105,Undead Minotaur,3,1,750,15,3.75,0.075,N
+106,Exploding Dwarf,3,1,750,15,3.75,0.075,N
+107,Manticore,3,3,15000,300,75,1.5,Y
+108,Black Dragon,3,4,75000,1500,375,7.5,Y
+109,Crypt Mancer,1,4,75000,1500,375,7.5,Y
+110,Plado Emberstorm,1,4,75000,1500,375,7.5,Y
+111,Valnamor,1,4,75000,1500,375,7.5,Y
+112,Prince Rennyn,1,4,75000,1500,375,7.5,Y
+113,The Peakrider,1,4,75000,1500,375,7.5,Y
+114,Delwyn Dragonscale,2,1,1500,30,7.5,0.15,N
+115,Dragonling Bowman,2,2,6000,120,30,0.6,Y
+116,Fiendish Harpy,2,3,30000,600,150,3,Y
+117,Red Dragon,2,4,150000,3000,750,15,Y
+118,Armorsmith,2,1,1500,30,7.5,0.15,N
+119,Silvershield Bard,2,2,6000,120,30,0.6,Y
+120,Goblin Chef,2,1,1500,30,7.5,0.15,N
+121,Minotaur Warlord,2,4,150000,3000,750,15,Y
+122,Electric Eels,2,2,6000,120,30,0.6,Y
+123,Mermaid Healer,2,3,30000,600,150,3,Y
+124,Undead Archer,2,2,6000,120,30,0.6,Y
+125,Corrupted Pegasus,2,4,150000,3000,750,15,Y
+126,Molten Ogre,2,1,1500,30,7.5,0.15,N
+127,Lord of Fire,2,4,150000,3000,750,15,Y
+128,Enchanted Defender,2,1,1500,30,7.5,0.15,N
+129,Dwarven Wizard,2,3,30000,600,150,3,Y
+130,Archmage Arius,2,4,150000,3000,750,15,Y
+131,Furious Chicken,3,2,3000,60,15,0.3,N
+132,Fallen Specter,3,4,75000,1500,375,7.5,Y
+133,Beetle Queen,3,2,3000,60,15,0.3,N
+134,Naga Windmaster,3,2,3000,60,15,0.3,N
+135,Maggots,4,1,500,10,2.5,0.05,N
+136,Cursed Slimeball,4,1,500,10,2.5,0.05,N
+137,Giant Scorpion,4,1,500,10,2.5,0.05,N
+138,Undead Badger,4,1,500,10,2.5,0.05,N
+139,Dark Astronomer,4,2,2000,40,10,0.2,N
+140,Bone Golem,4,2,2000,40,10,0.2,N
+141,Death Elemental,4,2,2000,40,10,0.2,N
+142,Soulstorm,4,3,10000,200,50,1,Y
+143,Darkest Mage,4,3,10000,200,50,1,Y
+144,Dark Ha'on,4,4,50000,1000,250,5,Y
+145,Contessa L'ament,4,2,2000,40,10,0.2,N
+146,Cave Slug,4,1,500,10,2.5,0.05,N
+147,Crystal Jaguar,4,1,500,10,2.5,0.05,N
+148,Lone Boatman,4,1,500,10,2.5,0.05,N
+149,Herbalist,4,1,500,10,2.5,0.05,N
+150,Truthspeaker,4,2,2000,40,10,0.2,N
+151,Luminous Eagle,4,2,2000,40,10,0.2,N
+152,Shieldbearer,4,2,2000,40,10,0.2,N
+153,Light Elemental,4,3,10000,200,50,1,Y
+154,Thunderbird,4,3,10000,200,50,1,Y
+155,High Priest Darius,4,4,50000,1000,250,5,Y
+156,Mother Khala,4,2,2000,40,10,0.2,N
+157,Kobold Bruiser,4,1,500,10,2.5,0.05,N
+158,Serpentine Spy,4,1,500,10,2.5,0.05,N
+159,Magma Troll,4,1,500,10,2.5,0.05,N
+160,Goblin Fireballer,4,1,500,10,2.5,0.05,N
+161,Fire Elemental,4,2,2000,40,10,0.2,N
+162,Living Lava,4,2,2000,40,10,0.2,N
+163,Spark Pixies,4,2,2000,40,10,0.2,N
+164,Ferexia General,4,3,10000,200,50,1,Y
+165,Pyromaniac,4,3,10000,200,50,1,Y
+166,Magnor,4,4,50000,1000,250,5,Y
+167,Pyre,4,2,2000,40,10,0.2,N
+168,Feasting Seaweed,4,1,500,10,2.5,0.05,N
+169,Albatross,4,1,500,10,2.5,0.05,N
+170,Tortisian Fighter,4,1,500,10,2.5,0.05,N
+171,Sniping Narwhal,4,1,500,10,2.5,0.05,N
+172,Ice Pixie,4,2,2000,40,10,0.2,N
+173,Giant Squid,4,2,2000,40,10,0.2,N
+174,Serpent of Eld,4,2,2000,40,10,0.2,N
+175,Coral Wraith,4,3,10000,200,50,1,Y
+176,Azmare Harpoonist,4,3,10000,200,50,1,Y
+177,Phantom of the Abyss,4,4,50000,1000,250,5,Y
+178,Bortus,4,2,2000,40,10,0.2,N
+179,Goblin Thief,4,1,500,10,2.5,0.05,N
+180,Failed Summoner,4,1,500,10,2.5,0.05,N
+181,Biceratops,4,1,500,10,2.5,0.05,N
+182,Orc Sergeant,4,1,500,10,2.5,0.05,N
+183,Khmer Princess,4,2,2000,40,10,0.2,N
+184,Unicorn Mustang,4,2,2000,40,10,0.2,N
+185,Child of the Forest,4,2,2000,40,10,0.2,N
+186,Mitica Headhunter,4,3,10000,200,50,1,Y
+187,Sporcerer,4,3,10000,200,50,1,Y
+188,Kron the Undying,4,4,50000,1000,250,5,Y
+189,Wizard of Eastwood,4,2,2000,40,10,0.2,N
+190,Elven Defender,4,1,500,10,2.5,0.05,N
+191,Horny Toad,4,1,500,10,2.5,0.05,N
+192,Mantoid,4,1,500,10,2.5,0.05,N
+193,Parasitic Growth,4,1,500,10,2.5,0.05,N
+194,Elven Mystic,4,2,2000,40,10,0.2,N
+195,Goblin Chariot,4,2,2000,40,10,0.2,N
+196,Tower Griffin,4,2,2000,40,10,0.2,N
+197,War Chaang,4,3,10000,200,50,1,Y
+198,Tortisian Chief,4,3,10000,200,50,1,Y
+199,Cornealus,4,4,50000,1000,250,5,Y
+200,Camila Sungazer,4,4,50000,1000,250,5,Y
+201,The Vigilator,4,4,50000,1000,250,5,Y
+202,Scale Doctor,4,4,50000,1000,250,5,Y
+203,Dragon Jumper,4,4,50000,1000,250,5,Y
+204,Gloridax Magus,4,4,50000,1000,250,5,Y
+205,Prince Julian,2,4,150000,3000,750,15,Y
+206,Boogeyman,3,2,3000,60,15,0.3,N
+207,Spirit Miner,3,4,75000,1500,375,7.5,Y
+208,Battle Orca,3,2,3000,60,15,0.3,N
+209,Chain Golem,4,4,50000,1000,250,5,Y
+210,Diamond Dragon,4,4,50000,1000,250,5,Y
+211,Gloridax Guardian,4,4,50000,1000,250,5,Y
+212,Fire Spitter,3,3,15000,300,75,1.5,Y
+213,The Kraken,3,4,75000,1500,375,7.5,Y
+214,Ettin Spearman,3,1,750,15,3.75,0.075,N
+215,Octopider,3,2,3000,60,15,0.3,N
+216,Silvershield Assassin,3,2,3000,60,15,0.3,N
+217,Baby Unicorn,3,1,750,15,3.75,0.075,N
+218,Gelatinous Cube,3,1,750,15,3.75,0.075,N
+219,Gremlin Blaster,3,2,3000,60,15,0.3,N
+220,Screeching Vulture,3,1,750,15,3.75,0.075,N
+221,Spirit Shaman,3,3,15000,300,75,1.5,Y
+222,Zalran Efreet,3,4,75000,1500,375,7.5,Y
+223,Serpentine Mystic,3,2,3000,60,15,0.3,N
+224,Drake of Arnak,4,2,2000,40,10,0.2,N
+225,Barking Spider,3,1,500,10,2.5,0.05,N
+226,Nectar Queen,3,1,500,10,2.5,0.05,N
+227,Flame Monkey,3,1,500,10,2.5,0.05,N
+228,Pyromancer,3,3,10000,200,50,1,Y
+229,Undead Rexx,3,1,500,10,2.5,0.05,N
+230,Shadowy Presence,3,3,10000,200,50,1,Y
+231,Torhilo the Frozen,3,3,10000,200,50,1,Y
+232,Wave Runner,3,1,500,10,2.5,0.05,N
+233,Warrior of Peace,3,1,500,10,2.5,0.05,N
+234,Evangelist,3,3,10000,200,50,1,Y
+235,Mimosa Nightshade,4,4,50000,1000,250,5,Y
+236,Yodin Zaku,4,4,50000,1000,250,5,Y
+237,Halfling Alchemist,2,3,30000,600,150,3,Y
+238,Mighty Dricken,2,4,150000,3000,750,15,Y
+239,Chanseus the Great,4,4,50000,1000,250,5,Y
+240,Kretch Tallevor,3,3,10000,200,50,1,Y
+241,Onyx Sentinel,3,3,10000,200,50,1,Y
+242,Sand Worm,3,1,500,10,2.5,0.05,N
+243,Silvershield Sheriff,3,2,2000,40,10,0.2,N
+244,Bila the Radiant,3,4,50000,1000,250,5,Y
+245,Grim Reaper,3,2,2000,40,10,0.2,N
+246,Phantasm,3,1,500,10,2.5,0.05,N
+247,Fineas Rage,3,2,2000,40,10,0.2,N
+248,Ant Miners,3,1,500,10,2.5,0.05,N
+249,Spirit Druid Grog,3,4,50000,1000,250,5,Y
+250,Captain's Ghost,3,2,2000,40,10,0.2,N
+251,Kelp Initiate,3,2,2000,40,10,0.2,N
+252,Gloridax Soldier,3,2,2000,40,10,0.2,N
+253,Centauri Mage,3,2,2000,40,10,0.2,N
+254,Lir Deepswimmer,4,4,50000,1000,250,5,Y
+255,Robo-Dragon Knight,3,4,50000,1000,250,5,Y
+256,Ancient Lich,3,4,50000,1000,250,5,Y
+257,Vera Salacia,5,2,2000,40,10,0.2,N
+258,Owster Rotwell,5,2,2000,40,10,0.2,N
+259,Mylor Crowling,5,2,2000,40,10,0.2,N
+260,Qid Yuff,5,2,2000,40,10,0.2,N
+261,Lorna Shine,5,2,2000,40,10,0.2,N
+262,Brighton Bloom,5,2,2000,40,10,0.2,N
+263,Poseidon,5,4,50000,1000,250,5,Y
+264,Frost Lion,5,1,500,10,2.5,0.05,N
+265,Caladuum,5,4,50000,1000,250,5,Y
+266,Flamesmith,5,1,500,10,2.5,0.05,N
+267,Cthulhu,5,4,50000,1000,250,5,Y
+268,Marrow's Ghost,5,1,500,10,2.5,0.05,N
+269,Kralus,5,4,50000,1000,250,5,Y
+270,Lunakari Mistress,5,3,10000,200,50,1,Y
+271,Oaken Behemoth,5,4,50000,1000,250,5,Y
+272,Goblin Dartling,5,1,500,10,2.5,0.05,N
+273,Battering Ram,5,1,500,10,2.5,0.05,N
+274,Naga Brute,5,1,500,10,2.5,0.05,N
+275,Dragon Spirit,5,3,10000,200,50,1,Y
+276,Grenadier,5,3,10000,200,50,1,Y
+277,Lensmaster,5,4,50000,1000,250,5,Y
+278,Scarred Llama Mage,4,4,50000,1000,250,5,Y
+279,Beatrix Ironhand,4,3,10000,200,50,1,Y
+280,Axemaster,3,3,10000,200,50,1,Y
+281,Charlok Minotaur,3,1,500,10,2.5,0.05,N
+282,Dark Ferryman,3,2,2000,40,10,0.2,N
+283,Chain Spinner,3,1,500,10,2.5,0.05,N
+284,Harvester,3,1,500,10,2.5,0.05,N
+285,Nightmare,3,1,500,10,2.5,0.05,N
+286,Almo Cambio,3,4,50000,1000,250,5,Y
+287,Demented Shark,3,1,500,10,2.5,0.05,N
+288,Temple Priest,3,2,2000,40,10,0.2,N
+289,Efreet Elder,3,2,2000,40,10,0.2,N
+290,Theorosa Nightshade,5,4,50000,1000,250,5,Y
+291,Byzantine Kitty,4,4,50000,1000,250,5,Y
+292,Goblin Firemage,4,3,10000,200,50,1,Y
+293,Lobstradamus,4,3,10000,200,50,1,Y
+294,The Gorlodon,4,3,10000,200,50,1,Y
+295,Hero of Beyond,4,3,10000,200,50,1,Y
+296,Two Gun Pete,5,4,50000,1000,250,5,Y
+297,Epona,5,4,50000,1000,250,5,Y
+298,Aganju,5,4,50000,1000,250,5,Y
+299,Chimney Wallstop,6,1,500,10,2.5,0.05,N
+300,Krash Wanderford,6,1,500,10,2.5,0.05,N
+301,Orella Abadon,6,2,2000,40,10,0.2,N
+302,Sarius,6,2,2000,40,10,0.2,N
+303,Gorth,6,3,10000,200,50,1,Y
+304,Fina Voxom,6,4,50000,1000,250,5,Y
+305,Alva the Crusher,6,1,500,10,2.5,0.05,N
+306,Isgald Vorst,6,1,500,10,2.5,0.05,N
+307,Alfredo,6,2,2000,40,10,0.2,N
+308,Relenor Cleaver,6,2,2000,40,10,0.2,N
+309,Edith Emberstar,6,3,10000,200,50,1,Y
+310,Flagulon Reine,6,4,50000,1000,250,5,Y
+311,Bertrol Gobson,6,1,500,10,2.5,0.05,N
+312,Katrelba Gobson,6,1,500,10,2.5,0.05,N
+313,Cutter Brieze,6,2,2000,40,10,0.2,N
+314,Palidon Rakk,6,2,2000,40,10,0.2,N
+315,Quora Towershead,6,3,10000,200,50,1,Y
+316,Jini Guise,6,4,50000,1000,250,5,Y
+317,Helmet Kharafax,6,1,500,10,2.5,0.05,N
+318,Hugo Strongsword,6,1,500,10,2.5,0.05,N
+319,Ajax Lightfoot,6,2,2000,40,10,0.2,N
+320,Captain Katie,6,2,2000,40,10,0.2,N
+321,Marisol Contuma,6,3,10000,200,50,1,Y
+322,Sola Ranjell,6,4,50000,1000,250,5,Y
+323,Whistling Damon,6,1,500,10,2.5,0.05,N
+324,Witch of Warwick,6,1,500,10,2.5,0.05,N
+325,Kotriphus Bayne,6,2,2000,40,10,0.2,N
+326,Liza Fox,6,2,2000,40,10,0.2,N
+327,Trapp Falloway,6,3,10000,200,50,1,Y
+328,Xulax Nightwind,6,4,50000,1000,250,5,Y
+329,Larissa Kerato,6,4,50000,1000,250,5,Y
+330,Tatiana Blayde,6,4,50000,1000,250,5,Y
+331,Venari Heatsmith,3,1,125,5,0.625,0.025,N
+332,Exploding Rats,3,2,500,20,2.5,0.1,N
+333,Lava Launcher,3,3,2500,100,12.5,0.5,Y
+334,Pelacor Mercenary,3,1,125,5,0.625,0.025,N
+335,Venari Seedsmith,3,2,500,20,2.5,0.1,N
+336,Djinn Biljka,3,4,12500,500,62.5,2.5,Y
+337,Pelacor Bandit,3,1,125,5,0.625,0.025,N
+338,Venari Wavesmith,3,2,500,20,2.5,0.1,N
+339,Djinn Oshannus,3,4,12500,500,62.5,2.5,Y
+340,Pelacor Deceiver,3,1,125,5,0.625,0.025,N
+341,Venari Bonesmith,3,2,500,20,2.5,0.1,N
+342,Harklaw,3,4,12500,500,62.5,2.5,Y
+343,Pelacor Conjurer,3,1,125,5,0.625,0.025,N
+344,Venari Crystalsmith,3,2,500,20,2.5,0.1,N
+345,Djinn Renova,3,3,2500,100,12.5,0.5,Y
+346,Naga Assassin,3,2,500,20,2.5,0.1,N
+347,Twilight Basilisk,3,2,500,20,2.5,0.1,N
+348,Djinn Chwala,3,3,2500,100,12.5,0.5,Y
+349,Gargoya Lion,3,1,125,5,0.625,0.025,N
+350,Gargoya Devil,3,2,500,20,2.5,0.1,N
+351,Uraeus,3,3,2500,100,12.5,0.5,Y
+352,Doctor Blight,7,4,12500,500,62.5,2.5,Y
+353,Carrion Shade,7,1,125,5,0.625,0.025,N
+354,Riftwing,7,1,125,5,0.625,0.025,N
+355,Shadow Snitch,7,1,125,5,0.625,0.025,N
+356,Crypt Beetle,7,1,125,5,0.625,0.025,N
+357,Silent Sha-vi,7,1,125,5,0.625,0.025,N
+358,Soul Strangler,7,2,500,20,2.5,0.1,N
+359,Life Sapper,7,2,500,20,2.5,0.1,N
+360,Dhampir Stalker,7,2,500,20,2.5,0.1,N
+361,Cursed Windeku,7,2,500,20,2.5,0.1,N
+362,Magi Necrosi,7,3,2500,100,12.5,0.5,Y
+363,Insidious Warlock,7,3,2500,100,12.5,0.5,Y
+364,Weirding Warrior,7,3,2500,100,12.5,0.5,Y
+365,Djinn Muirat,7,4,12500,500,62.5,2.5,Y
+366,Corpse Fiend,7,4,12500,500,62.5,2.5,Y
+367,Mycelic Morphoid,7,1,125,5,0.625,0.025,N
+368,Venari Knifer,7,1,125,5,0.625,0.025,N
+369,Venari Scout,7,1,125,5,0.625,0.025,N
+370,Hill Giant,7,1,125,5,0.625,0.025,N
+371,Goblin Psychic,7,1,125,5,0.625,0.025,N
+372,Mycelic Slipspawn,7,2,500,20,2.5,0.1,N
+373,Regal Peryton,7,2,500,20,2.5,0.1,N
+374,Goblin Tower,7,2,500,20,2.5,0.1,N
+375,Mycelic Infantry,7,2,500,20,2.5,0.1,N
+376,Grund,7,3,2500,100,12.5,0.5,Y
+377,Hunter Jarx,7,3,2500,100,12.5,0.5,Y
+378,Acid Shooter,7,3,2500,100,12.5,0.5,Y
+379,Queen Mycelia,7,4,12500,500,62.5,2.5,Y
+380,Fungus Fiend,7,4,12500,500,62.5,2.5,Y
+381,Hardy Stonefish,7,1,125,5,0.625,0.025,N
+382,Kulu Swimhunter,7,1,125,5,0.625,0.025,N
+383,Cruel Sethropod,7,1,125,5,0.625,0.025,N
+384,Flying Squid,7,1,125,5,0.625,0.025,N
+385,Deeplurker,7,1,125,5,0.625,0.025,N
+386,Angelic Mandarin,7,2,500,20,2.5,0.1,N
+387,Merdaali Guardian,7,2,500,20,2.5,0.1,N
+388,Diemonshark,7,2,500,20,2.5,0.1,N
+389,River Nymph,7,2,500,20,2.5,0.1,N
+390,Nerissa Tridawn,7,3,2500,100,12.5,0.5,Y
+391,Wave Brood,7,3,2500,100,12.5,0.5,Y
+392,Igor Darkspear,7,3,2500,100,12.5,0.5,Y
+393,River Hellondale,7,4,12500,500,62.5,2.5,Y
+394,Torrent Fiend,7,4,12500,500,62.5,2.5,Y
+395,Radiated Scorcher,7,1,125,5,0.625,0.025,N
+396,Lava Spider,7,1,125,5,0.625,0.025,N
+397,Radiated Brute,7,1,125,5,0.625,0.025,N
+398,Scavo Chemist,7,1,125,5,0.625,0.025,N
+399,Antoid Platoon,7,1,125,5,0.625,0.025,N
+400,Scavo Firebolt,7,2,500,20,2.5,0.1,N
+401,Tenyii Striker,7,2,500,20,2.5,0.1,N
+402,Djinn Apprentice,7,2,500,20,2.5,0.1,N
+403,Molten Ash Golem,7,2,500,20,2.5,0.1,N
+404,Forgotten One,7,3,2500,100,12.5,0.5,Y
+405,Tusk the Wide,7,3,2500,100,12.5,0.5,Y
+406,Djinn Inferni,7,3,2500,100,12.5,0.5,Y
+407,Ifrit Rising,7,4,12500,500,62.5,2.5,Y
+408,Scorch Fiend,7,4,12500,500,62.5,2.5,Y
+409,Gargoya Scrapper,7,1,125,5,0.625,0.025,N
+410,Sunkai Harvester,7,1,125,5,0.625,0.025,N
+411,Stitch Leech,7,1,125,5,0.625,0.025,N
+412,Blinding Reflector,7,1,125,5,0.625,0.025,N
+413,Chaos Knight,7,1,125,5,0.625,0.025,N
+414,Celestial Harpy,7,2,500,20,2.5,0.1,N
+415,Time Mage,7,2,500,20,2.5,0.1,N
+416,Portal Spinner,7,2,500,20,2.5,0.1,N
+417,Pelacor Arbalest,7,2,500,20,2.5,0.1,N
+418,Temporal Master,7,3,2500,100,12.5,0.5,Y
+419,Prismologist,7,3,2500,100,12.5,0.5,Y
+420,Dax Paragon,7,3,2500,100,12.5,0.5,Y
+421,Adelade Brightwing,7,4,12500,500,62.5,2.5,Y
+422,Soul Fiend,7,4,12500,500,62.5,2.5,Y
+423,Supply Runner,7,1,125,5,0.625,0.025,N
+424,Scavo Hireling,7,1,125,5,0.625,0.025,N
+425,Disintegrator,7,1,125,5,0.625,0.025,N
+426,Chaos Agent,7,1,125,5,0.625,0.025,N
+427,Xenith Archer,7,2,500,20,2.5,0.1,N
+428,Xenith Monk,7,2,500,20,2.5,0.1,N
+429,Venari Spellsmith,7,2,500,20,2.5,0.1,N
+430,Magi of Chaos,7,3,2500,100,12.5,0.5,Y
+431,Gem Meteor,7,3,2500,100,12.5,0.5,Y
+432,Legionnaire Alvar,7,4,12500,500,62.5,2.5,Y
+433,Chaos Dragon,7,4,12500,500,62.5,2.5,Y
+434,Desert Dragon,7,4,12500,500,62.5,2.5,Y
+435,Zyvax Vuul,7,4,12500,500,62.5,2.5,Y
+436,Void Dragon,7,4,12500,500,62.5,2.5,Y
+437,Kelya Frendul,7,2,500,20,2.5,0.1,N
+438,Thaddius Brood,7,2,500,20,2.5,0.1,N
+439,Obsidian,7,2,500,20,2.5,0.1,N
+440,Tarsa,7,2,500,20,2.5,0.1,N
+441,General Sloan,7,2,500,20,2.5,0.1,N
+442,Quix the Devious,7,4,12500,500,62.5,2.5,Y
+443,Baakjira,7,4,12500,500,62.5,2.5,Y
+444,Uriel the Purifier,7,4,12500,500,62.5,2.5,Y
+445,Lira the Dark,7,4,12500,500,62.5,2.5,Y
+446,Iza the Fanged,7,4,12500,500,62.5,2.5,Y
+447,Grum Flameblade,7,4,12500,500,62.5,2.5,Y
+448,Spirit Hoarder,7,4,12500,500,62.5,2.5,Y
+449,Waka Spiritblade,2,4,25000,500,125,2.5,Y
+450,Carnage Titan,7,4,12500,500,62.5,2.5,Y
+451,Vampire Bat,3,1,125,5,0.625,0.025,Y
+452,,,,,,0,0,Y
+453,Ever-Hungry Skull,3,1,125,5,0.625,0.025,Y
+454,Blood Maker,3,1,125,5,0.625,0.025,Y
+455,Vulguine,3,2,500,20,2.5,0.1,Y
+456,Vampiric Blossom,3,2,500,20,2.5,0.1,Y
+457,Dhampir Infiltrator,3,2,500,20,2.5,0.1,Y
+458,Revealer,3,3,2500,100,12.5,0.5,Y
+459,Tide Biter,3,3,2500,100,12.5,0.5,Y
+460,Jared Scar,3,4,12500,500,62.5,2.5,Y
+461,Countess Sinash,3,4,12500,500,62.5,2.5,Y
+462,Venator Kinjo,3,4,12500,500,62.5,2.5,Y
